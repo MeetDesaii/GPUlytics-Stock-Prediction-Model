@@ -1,1 +1,0 @@
-# GPUlytics-Stock-Prediction-Model
