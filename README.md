@@ -97,7 +97,6 @@ Yes! Volume captures investor sentiment, improving predictions significantly.
  ┣ 📄GPUlytics_Predictive_Analysis_of_GPU_Giants.ipynb
  ┣ 📄README.md
  ┣ 📄requirements.txt
- ┗ 📄LICENSE
 ```
 
 ## 🔗 Repository & Dataset Access
@@ -107,11 +106,8 @@ Yes! Volume captures investor sentiment, improving predictions significantly.
 
 - **Datasets Folder:**  
   [Datasets Directory](https://github.com/MeetDesaii/GPUlytics-Stock-Prediction-Model/tree/main/Datasets)
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
+  
 
 ## 🙌 Acknowledgements
 
-Thanks to **Pace University**, Seidenberg School of Computer Science, and the faculty of **Practical Data Science** for guidance and support.
+Thanks to **Pace University**, Seidenberg School of Computer Science, and to **Stephanie Langeland - the faculty of Practical Data Science** for guidance and support.
